@@ -9,5 +9,10 @@
 <br>
 </div>
 
-<img height="190px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanpitangui&hide=html&layout=compact&theme=buefy" />  
-<td><img height="190px" align="left" src="https://github-readme-stats.vercel.app/api?username=yanpitangui&theme=buefy"/>  
+<table>
+  <tr>
+    <td><img height="190px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanpitangui&hide=html&layout=compact&theme=buefy" />  
+</td>
+    <td><img height="190px" align="left" src="https://github-readme-stats.vercel.app/api?username=yanpitangui&theme=buefy"/>  </td>
+  </tr>
+</table>
