@@ -3,7 +3,7 @@
   <h1>Hello there! 👋</h1>
   <p>
   <em>
-    I'm a <b>software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, <b>software architecture    enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">, a <b>hardware nerd</b> 👨‍💻 and a <b>gamer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">.
+    I'm a <b>software Developer</b>, <b>software architecture enthusiast</b>&nbsp;, a <b>hardware nerd</b> and a <b>gamer</b>&nbsp;.
   </em>  
 </p>
 <br>
