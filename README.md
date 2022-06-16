@@ -1,9 +1,16 @@
-<div><img src="https://github.com/yanpitangui/yanpitangui/blob/main/capa.png"/></div>
 <div>
   <h1>Hello there! 👋</h1>
+  <a href="https://twitter.com/aethelingaeg">
+  <img align="left" alt="Yan Pitangui | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/yanpitangui/">
+  <img align="left" alt="Yan Pitangui's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+  <br/>
+  <br/>
   <p>
   <em>
-    I'm a <b>software Developer</b>, <b>software architecture enthusiast</b>&nbsp;, a <b>hardware nerd</b> and a <b>gamer</b>&nbsp;.
+    I'm a <b>software Developer</b>, <b>software architecture enthusiast</b>, a <b>hardware nerd</b> and a <b>gamer</b>.
   </em>  
 </p>
 <br>
