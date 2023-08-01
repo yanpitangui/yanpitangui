@@ -1,19 +1,16 @@
 <div>
   <h1>Hello there! 👋</h1>
   <a href="https://twitter.com/aethelingaeg">
-  <img align="left" alt="Yan Pitangui | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Yan Pitangui | Twitter" width="35px" src="icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/yanpitangui/">
-  <img align="left" alt="Yan Pitangui's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Yan Pitangui's LinkedIN" width="35px" src="icons/linkedin.svg" />
 </a>
   <br/>
   <br/>
   <p>
-  <em>
-    I'm a <b>software Developer</b>, <b>software architecture enthusiast</b>, a <b>hardware nerd</b> and a <b>gamer</b>.
-  </em>  
+    Hello, I’m Yan Pitangui, a software developer based in Brazil.
 </p>
-<br>
 </div>
 
 <table>
