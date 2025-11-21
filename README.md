@@ -9,7 +9,7 @@
   <br/>
   <br/>
   <p>
-    Hello, I’m Yan Pitangui, a software engineer based from Brazil.
+    Hello, I’m Yan Pitangui, a software engineer from Brazil.
 </p>
 </div>
 
